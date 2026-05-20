@@ -1,12 +1,8 @@
-# git-notes
-# Git Notes
+## Repository Contents
 
-This repository contains my Git and GitHub learning notes.
+- 01 - Git Basics
+- 02 - Git Branching
+- 03 - Merge Conflict
 
-## Topics
-- Git Basics
-- Git Commands
-- Branching
-- Merge Conflicts
-- Pull Requests
-
+## Purpose
+This repository is created to document my Git and GitHub learning journey.
